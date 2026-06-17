@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknowns Battle Ground: PUBG",
+    "coverPhoto": "https://i.postimg.cc/MGJsvQPj/pubg.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://i.postimg.cc/J0FxmDHj/mobile.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "Call of Duty: Mobile delivers multiplayer action, battle royale modes, and iconic maps from the COD franchise.",
+    "ratings": "4.6",
+    "developer": "Activision"
+  },
+  {
+    "id": "3",
+    "title": "Free Fire MAX",
+    "coverPhoto": "https://i.postimg.cc/9fBB0NqH/free-fire-max.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://ffmax.garena.com",
+    "description": "Free Fire MAX offers intense survival gameplay with enhanced graphics and immersive battle royale action.",
+    "ratings": "4.4",
+    "developer": "Garena"
+  },
+  {
+    "id": "4",
+    "title": "Mobile Legends: Bang Bang",
+    "coverPhoto": "https://i.postimg.cc/h4Y1Xmh7/bang-bang.jpg",
+    "category": "MOBA",
+    "downloadLink": "https://m.mobilelegends.com",
+    "description": "Team up with friends in strategic 5v5 battles and compete against players worldwide.",
+    "ratings": "4.7",
+    "developer": "Moonton"
+  },
+  {
+    "id": "5",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://i.postimg.cc/nh44Sw2r/clash-clans.jpg",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashofclans/",
+    "description": "Build your village, train powerful troops, and battle players across the globe.",
+    "ratings": "4.8",
+    "developer": "Supercell"
+  },
+  {
+    "id": "6",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://i.postimg.cc/MTFVjk6d/genish-imapct.jpg",
+    "category": "RPG",
+    "downloadLink": "https://genshin.hoyoverse.com",
+    "description": "Explore a vast open world, complete quests, and collect unique characters in this action RPG.",
+    "ratings": "4.6",
+    "developer": "HoYoverse"
+  },
+  {
+    "id": "7",
+    "title": "Asphalt 9: Legends",
+    "coverPhoto": "https://i.postimg.cc/59XkKbC6/asphalt-9.jpg",
+    "category": "Racing",
+    "downloadLink": "https://asphaltlegends.com",
+    "description": "Race high-performance cars across stunning tracks with arcade-style driving mechanics.",
+    "ratings": "4.5",
+    "developer": "Gameloft"
+  },
+  {
+    "id": "8",
+    "title": "Minecraft",
+    "coverPhoto": "https://i.postimg.cc/mgyd1r0q/minecraft.jpg",
+    "category": "Sandbox",
+    "downloadLink": "https://www.minecraft.net",
+    "description": "Create, explore, and survive in a block-based world full of endless possibilities.",
+    "ratings": "4.7",
+    "developer": "Mojang Studios"
+  }
+]
